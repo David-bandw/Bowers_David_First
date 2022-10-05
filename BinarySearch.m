@@ -4,7 +4,7 @@
 % it will only pick up one number 
 
 unsortedArr = [1,0,9,4,33,56,18,4,2]; %unsorted array
-searchedVal = 4; %value we want to search for in the array 
+searchedVal = 9; %value we want to search for in the array 
 
 sortedArr = sort(unsortedArr); %sorts the array into chronological order so
 %that binary search can be implemented
